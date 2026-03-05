@@ -1,0 +1,6 @@
+itemCode,name,category,currentStock,unit,reorderPoint,supplierId
+SKU-001,Gelatin Powder,RAW_MATERIAL,50,kg,15,
+SKU-002,Foil PTP (250mm),PACKAGING_MATERIAL,2.5,kg,10,
+SKU-003,Lactose Monohydrate,RAW_MATERIAL,100,kg,25,
+SKU-004,Blister Pack (100 count),PACKAGING_MATERIAL,500,pieces,200,
+SKU-005,Magnesium Stearate,RAW_MATERIAL,30,kg,10,
